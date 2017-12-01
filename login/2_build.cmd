@@ -1,0 +1,1 @@
+webpack ./src/main.js ./src/build.js
